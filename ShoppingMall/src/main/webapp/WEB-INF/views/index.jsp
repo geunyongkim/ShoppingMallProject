@@ -23,7 +23,7 @@
 
     <!-- CSS Global Compulsory -->
     <link href="resources/WB0412697/html/assets/vendor/bootstrap/bootstrap.min.css" rel="stylesheet"  >
-	ddd
+	helo
     <!-- CSS Implementing Plugins -->
     <link rel="stylesheet" href="resources/WB0412697/html/assets/vendor/icon-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="resources/WB0412697/html/assets/vendor/icon-hs/style.css">
